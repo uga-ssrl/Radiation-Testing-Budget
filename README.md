@@ -15,7 +15,7 @@ for reference on what should be done look at pdf in main directory of this repo
 
 ## MEMORY MONITORS
 
-- flash checker = ?
+- flash checker = checksum and copy script needs to be written 
 - LPDDR4 checkers
  - cudamemchecker (gpu)
- - CPU RAM usage 
+ - CPU RAM usage (?)
