@@ -4,6 +4,7 @@ repo for laying out radiation tests, components to be tested, and the sequence o
 those tests.
 
 # Software To Be Used 
+for reference on what should be done look at pdf in main directory of this repo
 
 ## GPU TESTS
 (https://docs.nvidia.com/cuda/cuda-samples/index.html)
