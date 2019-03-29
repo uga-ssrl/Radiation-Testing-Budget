@@ -16,6 +16,7 @@ for reference on what should be done look at pdf in main directory of this repo
 ## MEMORY MONITORS
 
 - flash checker = checksum and copy script needs to be written 
+ - 100MB version in answers (https://unix.stackexchange.com/questions/37815/where-can-i-find-storage-integrity-write-read-test-tools)
 - LPDDR4 checkers
  - cudamemchecker (gpu)
  - CPU RAM usage (?)
